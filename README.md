@@ -1,5 +1,4 @@
-# Drug-Avoidance-System
-# Drug Side Effects and Medical Conditions EDA Dashboard
+# Medical Drug-Avoidance-System
 
 ## Overview
 
